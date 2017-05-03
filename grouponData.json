@@ -1,0 +1,182 @@
+{
+  "deals": [
+    {
+      "id": "the-bouqs-155",
+      "uuid": "a9e55309-fe27-4674-8b45-e2e35c654f98",
+      "dealUrl": "http://tracking.groupon.com/r?tsToken=US_AFF_0_201236_212556_0&url=https%3A%2F%2Fwww.groupon.com%2Fdeals%2Fthe-bouqs-155%3Fz%3Dskip%26utm_medium%3Dafl%26utm_campaign%3D201236%26mediaId%3D212556%26utm_source%3DGPN",
+      "title": "Farm Fresh Flower Bouquets from The Bouqs Company (50% Off)",
+      "announcementTitle": "50% Off Farm Fresh Flower Bouquets",
+      "shortAnnouncementTitle": "Farm Fresh Flower Bouquets",
+      "finePrint": "Limit 1 per person, may buy 1 additional as a gift. Limit 1 redemption code at checkout. Cannot be combined with any other offer, Bouqs credits, or promotions. Minimum purchase equal to the full offer value required. Shipping not included; flat-rate fee of $10 ($15 for May 8-12) to fifty (50) United States and District of Columbia. Tax not included. Cannot be applied to previously placed orders. Offer valid only for Bouqs purchased through https://bouqs.com/grpnc40.",
+      "highlightsHtml": "<p>Flower bouquets praised by <em>O, The Oprah Magazine</em> and sourced from sustainable farms in California and Central and South America</p>",
+      "pitchHtml": "<p><em>After purchasing this deal, you will need to visit the website listed on your Groupon voucher to complete redemption.</em><br /><br /></p>\n\n<hr />\n\n<h4>The Deal</h4>\n\n<ul>\n  <li>$20 for $40 worth of flower bouquets from <a href=\"https://www.thebouqs.com/\">The Bouqs Co.</a></li>\n  <li>Shipping is not included; a flat-rate fee of $10 applies ($15 flat-rate fee for orders placed May 8-12)</li>\n</ul>\n\n<p><strong>For Bouqs shipped direct from South America, order by 5/7 for Mother&#8217;s Day delivery. For Bouqs shipped direct from USA, order by 5/11 for Mother&#8217;s Day delivery.</strong></p>",
+      "soldQuantity": -1,
+      "limitedQuantityRemaining": null,
+      "tippingPoint": 0,
+      "soldQuantityMessage": "-1",
+      "placeholderUrl": "https://secure-assets.grouponcdn.com/images/groupon/grayPlaceholder.png",
+      "grid4ImageUrl": "https://img.grouponcdn.com/deal/27mmzKJNhMA3apcLMXTMTLoGXjyT/27-2048x1229/v1/t300x182.jpg",
+      "grid6ImageUrl": "https://img.grouponcdn.com/deal/27mmzKJNhMA3apcLMXTMTLoGXjyT/27-2048x1229/v1/t460x279.jpg",
+      "largeImageUrl": "https://img.grouponcdn.com/deal/27mmzKJNhMA3apcLMXTMTLoGXjyT/27-2048x1229/v1/t440x300.jpg",
+      "mediumImageUrl": "https://img.grouponcdn.com/deal/27mmzKJNhMA3apcLMXTMTLoGXjyT/27-2048x1229/v1/t100x100.jpg",
+      "smallImageUrl": "https://img.grouponcdn.com/deal/27mmzKJNhMA3apcLMXTMTLoGXjyT/27-2048x1229/v1/t50x50.jpg",
+      "sidebarImageUrl": "https://img.grouponcdn.com/deal/27mmzKJNhMA3apcLMXTMTLoGXjyT/27-2048x1229/v1/t200x300.jpg",
+      "status": "open",
+      "type": "groupon",
+      "accessType": "featured",
+      "endAt": "2017-05-02T09:59:59Z",
+      "startAt": "2017-04-28T04:00:00Z",
+      "tippedAt": "2017-04-27T04:00:00Z",
+      "areas": [],
+      "channels": [
+        {
+          "id": "occasions",
+          "name": "Occasions"
+        }
+      ],
+      "dealTypes": [],
+      "division": {
+        "id": "abilene",
+        "name": "Abilene, TX",
+        "timezone": "Central Daylight Time",
+        "timezoneOffsetInSeconds": -18000,
+        "timezoneIdentifier": "America/Chicago",
+        "lat": 32.4487,
+        "lng": -99.7331
+      },
+      "grouponRating": null,
+      "allowedInCart": false,
+      "isInviteOnly": false,
+      "shippingAddressRequired": false,
+      "isOptionListComplete": true,
+      "isMerchandisingDeal": false,
+      "isNowDeal": false,
+      "isSoldOut": false,
+      "isTipped": true,
+      "isTravelBookableDeal": false,
+      "isGliveInventoryDeal": false,
+      "isAutoRefundEnabled": false,
+      "isGiftable": true,
+      "placementPriority": "nearby",
+      "redemptionLocation": null,
+      "locationNote": null,
+      "vip": "",
+      "fulfillmentMethod": null,
+      "tags": [
+        {
+          "name": "Flower Delivery",
+          "uuid": "50589f4a-e1a4-4890-a498-5a309d4f72d1"
+        },
+        {
+          "name": "Delivery Service",
+          "uuid": "302e85f1-50db-4f86-81c9-efc964e24bd8"
+        }
+      ],
+      "displayOptions": [
+        {
+          "name": "discount",
+          "enabled": true
+        },
+        {
+          "name": "quantity",
+          "enabled": true
+        },
+        {
+          "name": "timer",
+          "enabled": true
+        },
+        {
+          "name": "merchandisingType",
+          "value": "other"
+        },
+        {
+          "name": "showRedemptionLocations",
+          "enabled": true
+        },
+        {
+          "name": "showPrice",
+          "enabled": true
+        }
+      ],
+      "textAd": {
+        "line1": "",
+        "line2": "",
+        "headline": ""
+      },
+      "bwfGroup": null,
+      "merchant": {
+        "id": "the-bouqs-company",
+        "uuid": "6b0e2976-5160-11e3-81a0-0025909235ac",
+        "name": "The Bouqs Company",
+        "websiteUrl": "https://bouqs.com/",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "ratings": null
+      },
+      "options": [
+        {
+          "id": 58303023,
+          "uuid": "d22fe185-2752-4937-aa1d-5c82901a2320",
+          "bookable": false,
+          "buyUrl": "https://www.groupon.com/deals/the-bouqs-155/confirmation?pledge_id=58303023",
+          "customField": null,
+          "details": [
+            {
+              "description": "Limit 1 per person, may buy 1 additional as a gift. Limit 1 redemption code at checkout. Cannot be combined with any other offer, Bouqs credits, or promotions. Minimum purchase equal to the full offer value required. Shipping not included; flat-rate fee of $10 ($15 for May 8-12) to fifty (50) United States and District of Columbia. Tax not included. Cannot be applied to previously placed orders. Offer valid only for Bouqs purchased through https://bouqs.com/grpnc40."
+            }
+          ],
+          "discount": {
+            "amount": 2000,
+            "currencyCode": "USD",
+            "formattedAmount": "$20.00"
+          },
+          "discountPercent": 50,
+          "endAt": "2017-05-02T09:59:59Z",
+          "expiresAt": "2017-07-02T04:59:59Z",
+          "expiresInDays": null,
+          "externalUrl": null,
+          "isLimitedQuantity": true,
+          "isSoldOut": false,
+          "maximumPurchaseQuantity": 2,
+          "minimumPurchaseQuantity": 1,
+          "price": {
+            "amount": 2000,
+            "currencyCode": "USD",
+            "formattedAmount": "$20.00"
+          },
+          "traits": [],
+          "redemptionLocations": [],
+          "soldQuantity": -1,
+          "soldQuantityMessage": "-1",
+          "specificAttributes": {
+            "takeoutDelivery": {
+              "takeout": false,
+              "delivery": false
+            }
+          },
+          "status": "open",
+          "title": "$40 Value",
+          "value": {
+            "amount": 4000,
+            "currencyCode": "USD",
+            "formattedAmount": "$40.00"
+          },
+          "customFields": []
+        }
+      ],
+      "salesforceLink": null,
+      "says": null
+    }
+  ],
+  "facets": [],
+  "pagination": {
+    "offset": 0,
+    "count": 233
+  },
+  "relevanceService": {
+    "persistentRanking": "updated",
+    "context": "web_all",
+    "treatment": "1dc7cdc8-b09e-84bf-faf0-55e308686758"
+  },
+  "dealSubsetAttributes": []
+}
